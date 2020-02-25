@@ -1,9 +1,8 @@
 ---
-favorited: true
 tags: [Zsv]
 title: Sociologie
 created: '2020-02-25T08:20:25.099Z'
-modified: '2020-02-25T09:34:15.882Z'
+modified: '2020-02-25T12:04:41.734Z'
 ---
 
 # Sociologie
