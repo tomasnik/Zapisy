@@ -2,12 +2,12 @@
 tags: [Biologie]
 title: Ptáci
 created: '2020-02-25T06:56:46.937Z'
-modified: '2020-02-25T07:29:44.078Z'
+modified: '2020-02-25T07:51:16.252Z'
 ---
 
 # Ptáci
 
-## Oheňáci
+## Plameňáci
 - plameňák
 ## Vrubozubí
 - nekrmivá mláďata
