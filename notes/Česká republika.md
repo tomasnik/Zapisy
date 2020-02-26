@@ -2,7 +2,7 @@
 tags: [Zeměpis]
 title: Česká republika
 created: '2020-02-24T07:26:20.804Z'
-modified: '2020-02-24T08:30:33.417Z'
+modified: '2020-02-26T07:18:53.910Z'
 ---
 
 # Česká republika
@@ -38,3 +38,6 @@ modified: '2020-02-24T08:30:33.417Z'
 ### Parlament
 
 ### Senát
+
+## Kontinentální drift
+- teorie navržená Alfredem Wenegerem v roce 1912
