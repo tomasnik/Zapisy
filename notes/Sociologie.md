@@ -2,7 +2,7 @@
 tags: [Zsv]
 title: Sociologie
 created: '2020-02-25T08:20:25.099Z'
-modified: '2020-02-25T12:04:41.734Z'
+modified: '2020-02-28T12:19:41.192Z'
 ---
 
 # Sociologie
@@ -18,5 +18,26 @@ modified: '2020-02-25T12:04:41.734Z'
 - sociální jednání - smysluplné, má nějaký cíl, orientované na druhé lidi
 - sociální x sociologický problém
 ## Metody výzkumu
-1. kvantitativní - mnoho dotázaných
-2. kvalitativní - málo dotázaných, ale dají se lépe prozkoumat
+1. kvantitativní - mnoho dotázaných - přímé pozorování, rozhovor, dotazník, analýza dokumentů
+2. kvalitativní - málo dotázaných, ale dají se lépe prozkoumat - zúčastněné pozorování, analýza osobních dokumentů, nestandardizovaný rozhovor
+## Dějiny sociologie
+- vznikla v 19. století
+- zakladatel Auguste Comte v roce 1839 v díle Kurz pozitivní filosofie
+- organistický směr - Herbert Spencer
+- Durkheim, Marx a Weber
+### Émil Durkheim
+ - průkopník kvantitativního šetření v sociologii
+### Karl Marx
+- kolega Friedrich Engels
+- neměli rádi kapitalismus a mluvili o vykořisťování
+### Max Weber
+- zaměřen na sociální jednání
+- kvalitativní metody
+### Funkcionalistický přístup
+- vysvětluje přetrvání sociálních institucí z hlediska funkcí ve společnosti
+- Parsons, Merton
+### Konfliktuální přístup
+- vysvětluje přetrvání sociálních institucí z hlediska zájmů určitých skupin, jež mají převahu nad jinými skupinami
+- Coser, Dahrendorf, Collins
+### Interpretativní
+- z hlediska chování lidí
