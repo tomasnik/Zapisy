@@ -2,7 +2,7 @@
 tags: [Zsv]
 title: Sociologie
 created: '2020-02-25T08:20:25.099Z'
-modified: '2020-02-28T12:19:41.192Z'
+modified: '2020-03-03T09:28:11.734Z'
 ---
 
 # Sociologie
@@ -41,3 +41,15 @@ modified: '2020-02-28T12:19:41.192Z'
 - Coser, Dahrendorf, Collins
 ### Interpretativní
 - z hlediska chování lidí
+## Kultura
+- sociálně zakotvené vzorce vnímání a jednání
+1. kognitivní stránka - vědění a znalosti
+2. normativní - normy a hodnoty
+3. symbolická - jazyk
+4. materiální
+### Subkultury
+- BDSM
+- emo
+- punk
+- goth
+- steampunk
