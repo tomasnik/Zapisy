@@ -2,7 +2,7 @@
 tags: [Hudebka]
 title: Antonín Dvořák
 created: '2020-02-26T09:54:50.306Z'
-modified: '2020-02-26T10:23:12.461Z'
+modified: '2020-03-04T10:18:33.939Z'
 ---
 
 # Antonín Dvořák
@@ -14,8 +14,30 @@ modified: '2020-02-26T10:23:12.461Z'
 - postal do soutěže Moravské dvojzpěvy a klavír, vyhrál ji → úspěch
 - stal se učitelem a ředitelem konzervatoře v New Yorku a později profesorem v Praze
 - učil Josefa Suka a Vítězslava Nováka
+- největší symfonik
 ## Dílo
-- Symfonie z nového světa (Americká)
+- Symfonie z nového světa (Americká; Novosvětská) 
+  - rychle, pomalu, tanečně, rychle
+  - začátek jako parník
+- Moravské dvojzpěvy
+- Slovanské tance
+- Violoncellový koncert
+- Humoreska
 ### Opery
 - Čert a Káča
 - Rusalka
+- Jakobín
+- Šelma sedlák
+- Tvrdé palice
+- Vanda
+- Dimitrij
+### Písně
+- Cikánské písně
+- Večerní písně
+### Kantáty
+- Svatební košile
+### Oratoria
+- Sv. Ludmila
+- Te Deum
+### Smyčcový kvarter
+- Americký
